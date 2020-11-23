@@ -1,0 +1,2 @@
+# GitPractice
+share from intellij
